@@ -147,8 +147,11 @@ img {
 }
 
 /* CHAIRS */
-.chair-box {
+.chair {
   padding: 24px;
+  box-shadow: 0px 20px 30px 0px rgba(0, 0, 0, 0.07);
+}
+.chair-box {
 }
 
 h3 {
